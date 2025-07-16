@@ -1,0 +1,8 @@
+server/node_modules
+server/.env
+server/uploads
+ml_model/venv
+
+client/.env
+client/node_modules
+pages
