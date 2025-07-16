@@ -58,8 +58,8 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/YashSamdaria/ClearPlot-Real-Estate-Marketplace.git
-cd ClearPlot-Real-Estate-Marketplace
+git clone https://github.com/srujan2704/clearplot.git
+cd clearplot
 
 
 
